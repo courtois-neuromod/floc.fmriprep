@@ -1,1 +1,2 @@
+17545346-0a32-46ed-9e42-0041a5ccd43b autoenable=true bucket=cneuromod.floc.fmriprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=s3.cneuromod.floc.fmriprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1732502973.252717149s
 8d3c7ca4-c75c-4566-beee-d94eda4862df archive-id=237e4de8-a4d4-42aa-8814-ab0f2f6c331c autoenable=true encryption=none externaltype=ora name=ria-beluga-storage type=external url=ria+file:///lustre03/project/rrg-pbellec/ria-beluga timestamp=1663769938.8867791s
