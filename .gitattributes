@@ -16,3 +16,4 @@ code/** annex.largefiles=nothing
 *.sh annex.largefiles=nothing
 .bidsignore annex.largefiles=nothing
 .github/** annex.largefiles=nothing
+.github/** annex.largefiles=nothing
